@@ -1,6 +1,6 @@
 # onefox
 A `userChrome.css` tweak that merges the Firefox address bar (URL bar) and tabs into a single unified row. 
-Designed with a strict focus on minimalism, stability, and visual consistency.
+Designed with a strict focus on minimalism and visual consistency.
 
 ---
 
