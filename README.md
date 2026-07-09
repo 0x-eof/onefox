@@ -30,3 +30,5 @@ Designed with a strict focus on minimalism and visual consistency.
 
 4. **Restart Firefox:**
    * Close all Firefox windows and relaunch the browser for the changes to take effect.
+
+...maybe in some systems you'll want to remove the lines 42 to 44 inside `userChrome.css` file if the tabs height are disaligned. 
