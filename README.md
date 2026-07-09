@@ -1,5 +1,6 @@
 # onefox
 A `userChrome.css` tweak that merges the Firefox address bar (URL bar) and tabs into a single unified row.
+Inspired by Helium Browser's "compact mode", I searched the internet to find this but for Firefox and only found tweaks that were either broken or bloated, so I made one myself.
 <img width="1920" height="1044" alt="image" src="https://github.com/user-attachments/assets/e01aa4d8-201d-4ccc-9678-381c673a64df" />
 
 
