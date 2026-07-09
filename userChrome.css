@@ -1,0 +1,44 @@
+/* Forces the URL and tabs to be in one bar */
+#navigator-toolbox {
+	flex-wrap: wrap !important;
+	flex-direction: row-reverse !important;
+	margin-bottom: -1px !important;
+}
+
+/* Forces the URL to be a fixed width and removes the background color to use the color of the navigator-toolbox */
+#nav-bar {
+    background-color: transparent !important;
+	min-width: 497px !important;
+	max-width: 497px !important;
+}
+
+/* Removes empty space between URL and tabs */
+.titlebar-spacer {
+	display: none !important;
+}
+
+/* Disables the ALT menu and forces the min., max. and close buttons to stay on the far right */
+#toolbar-menubar[autohide][inactive]:not([customizing]) {
+	display: none !important;
+}
+
+/* Forces the bookmark bar to stay in it's own bar and removes the background color to use the color of the navigator-toolbox */
+#PersonalToolbar {
+    background-color: transparent !important;
+	width: 100% !important;
+}
+
+/* Fix bar jumping a single pixel to the right when a website is opened */
+#notifications-toolbar {
+	width: 100% !important;
+}
+
+/* Centering the hamburger menu */
+#PanelUI-button {
+	margin-right: -3px !important;
+}
+
+/* Adjusts the height of tabs by 1 pixel */
+.tab-stack {
+	margin-bottom: -1px !important;
+}
