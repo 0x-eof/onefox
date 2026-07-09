@@ -9,7 +9,6 @@ A `userChrome.css` tweak that merges the Firefox address bar (URL bar) and tabs 
 * **Dynamic:** Resizing the window will not break, overlap, or clip any UI elements.
 * **Theme uniformity:** Some backgrounds are edited to be transparent (like the URL bar and bookmarks bar background), this allows you to use any Firefox theme without making it look broken.
 * **No extra fluff:** You want a one line Firefox and nothing more, only 44 lines of code.
-* **More space for tabs:** This edit gives more space to tabs while the URL bar is tidy.
 
 ---
 
