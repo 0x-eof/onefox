@@ -13,10 +13,12 @@ Designed with a strict focus on minimalism and visual consistency.
 ---
 
 ## Installation
-1. **Enable Custom Stylesheets in Firefox:**
+1. **Enable Custom Stylesheets and compact mode in Firefox:**
    * Open a new tab and type `about:config` in the address bar.
    * Accept the warning.
-   * Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to **true**.
+   * Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and `browser.compactmode.show` and set both to **true**.
+   * Right click in the Firefox UI and select **customize toolbar**.
+   * At the bottom change de **density** to **compact**.
 
 2. **Locate your Profile Directory:**
    * Go to `about:profiles`.
