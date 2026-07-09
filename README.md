@@ -7,7 +7,7 @@ Inspired by Helium Browser's "compact mode", I searched the internet to find thi
 ---
 
 ## Key Features
-* **Dynamic:** Resizing the window will not break, overlap, or clip any UI elements.
+* **Dynamic:** Resizing the window will not break, overlap, or clip any UI elements (as I am aware of).
 * **Theme uniformity:** Some backgrounds are edited to be transparent (like the URL bar and bookmarks bar background), this makes them "copy" the tabs bar background, creating uniformity, allowing you to use any Firefox theme without it looking broken.
 * **No extra fluff:** You want a one line Firefox and nothing more, only 44 lines of code.
 
