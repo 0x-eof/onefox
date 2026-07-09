@@ -32,4 +32,4 @@ Inspired by Helium Browser's "compact mode", I searched the internet to find thi
 4. **Restart Firefox:**
    * Close all Firefox windows and relaunch the browser for the changes to take effect.
 
-...maybe in some systems you'll want to remove the lines 42 to 44 inside `userChrome.css` file if the tabs height are disaligned. 
+...maybe in some systems you'll want to remove the lines 42 to 44 inside `userChrome.css` file if the tabs height are disaligned, in my Windows install I actually need those lines, but in my Linux install it makes the tabs height look not centered.
