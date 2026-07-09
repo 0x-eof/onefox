@@ -9,7 +9,7 @@ Designed with a strict focus on minimalism and visual consistency.
 ## Key Features
 * **Responsive Design:** Resizing the window will not break, overlap, or clip any UI elements.
 * **Uniform Aesthetics:** Some backgrounds are transparent (like the URL bar and bookmarks bar background), this allows you to use your favorite Firefox theme without looking broken.
-* **No extra fluff:** You want a one line Firefox and nothing more.
+* **No extra fluff:** You want a one line Firefox and nothing more, only 44 lines of code.
 * **More space for tabs:** This edit gives more space to tabs rather than the URL bar.
 
 ---
