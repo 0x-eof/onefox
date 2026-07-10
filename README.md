@@ -18,6 +18,9 @@ Inspired by Helium Browser's "compact mode", I searched the internet to find thi
    * Open a new tab and type `about:config` in the address bar.
    * Accept the warning.
    * Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and `browser.compactmode.show` and set both to **true**.
+   * Close and reopen Firefox.
+
+2. **Activate compact mode:**
    * Right click in the Firefox UI and select **customize toolbar**.
    * At the bottom change de **density** to **compact**.
 
